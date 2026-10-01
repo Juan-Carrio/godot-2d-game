@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://drcn4pgccdyvj"]
+
+[ext_resource type="Script" uid="uid://bwjmpvh6a6eg4" path="res://Scripts/Drops/drop.gd" id="1_5st3h"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ktupk"]
+
+[node name="Drop" type="Area2D" unique_id=1371348763]
+script = ExtResource("1_5st3h")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1025376525]
+scale = Vector2(0.02, 0.02)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=849198904]
+shape = SubResource("CircleShape2D_ktupk")

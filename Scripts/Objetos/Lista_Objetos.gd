@@ -19,4 +19,4 @@ class_name Lista_Objetos
 #Miticos
 
 var billetera_tade: Objeto = Objeto.new(1,"Billetera de Tade","Una prueba para los mortales...",
-	150,Objeto.rareza.MITICO)
+	150,preload("res://Assets/items/Billetera.png"),Objeto.rareza.MITICO)

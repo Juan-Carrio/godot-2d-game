@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://qlmxc7m2weqa"
-path="res://.godot/imported/Fondo de mapa.png-a75a901c9bb0f721dcf959b3fdad8ed6.ctex"
+uid="uid://blndg4b6wg6r5"
+path="res://.godot/imported/Billetera.png-fafc3248719bd56de40ea31329dc359a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Fondo de mapa.png"
-dest_files=["res://.godot/imported/Fondo de mapa.png-a75a901c9bb0f721dcf959b3fdad8ed6.ctex"]
+source_file="res://Assets/items/Billetera.png"
+dest_files=["res://.godot/imported/Billetera.png-fafc3248719bd56de40ea31329dc359a.ctex"]
 
 [params]
 

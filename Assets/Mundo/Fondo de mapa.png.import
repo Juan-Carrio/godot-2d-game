@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d28rx30tg2wyo"
-path="res://.godot/imported/Personaje.png-32650dde47c068725419c7aded2d7ec5.ctex"
+uid="uid://qlmxc7m2weqa"
+path="res://.godot/imported/Fondo de mapa.png-826ae52dd8eb955f695e34592e072c98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Personaje.png"
-dest_files=["res://.godot/imported/Personaje.png-32650dde47c068725419c7aded2d7ec5.ctex"]
+source_file="res://Assets/Mundo/Fondo de mapa.png"
+dest_files=["res://.godot/imported/Fondo de mapa.png-826ae52dd8eb955f695e34592e072c98.ctex"]
 
 [params]
 
