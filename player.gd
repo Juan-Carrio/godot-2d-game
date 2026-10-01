@@ -1,5 +1,5 @@
 extends CharacterBody2D
-var vel = 400
+var vel = 500
 
 func _physics_process(delta):
 	
